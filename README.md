@@ -1,5 +1,5 @@
 
-[![Build Status](https://dev.azure.com/rajjos/NodeProj/_apis/build/status/josepher79.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/rajjos/NodeProj/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/rajjos/NodeProj/_apis/build/status/josepher79.ContosoAir?branchName=master)](https://dev.azure.com/rajjos/NodeProj/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
